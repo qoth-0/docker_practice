@@ -1,4 +1,5 @@
+#  dist는 빌드파일, node_modules는 npm install 시 생기는 폴더이므로 copy x
+
 node_modules
 dist
 
-#  dist는 빌드파일, node_modules는 npm install 시 생기는 폴더이므로 copy x
